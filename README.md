@@ -1,21 +1,21 @@
-= tvdude
+# tvdude
 
 http://github.com/davorb/tvdude
 
-== DESCRIPTION:
+# DESCRIPTION:
 
 tvdude is an irc-bot that allows you to check your watchlist
 on myepisodes.com from irc.
 
-== SYNOPSIS:
+# SYNOPSIS:
 
   FIX (code sample of usage)
 
-== REQUIREMENTS:
+# REQUIREMENTS:
 
 * [cinch](https://github.com/cinchrb/cinch)
 
-== INSTALL:
+# INSTALL:
 
 * `gem install bundler`
 * `bundle install`
@@ -34,16 +34,16 @@ nick = "tvdude"
 Tvdude::Tvdude.new(uid, pwdmd5, server, channel, nick)
 ```
 
-== DEVELOPERS:
+# DEVELOPERS:
 
 After checking out the source, run:
-
+```
   $ rake newb
-
+```
 This task will install any missing dependencies, run the tests/specs,
 and generate the RDoc.
 
-== LICENSE:
+# LICENSE:
 
 (The MIT License)
 
