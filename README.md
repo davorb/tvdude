@@ -14,6 +14,7 @@ on myepisodes.com from irc.
 # REQUIREMENTS:
 
 * [cinch](https://github.com/cinchrb/cinch)
+* feedzirra
 
 # INSTALL:
 
