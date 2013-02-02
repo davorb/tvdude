@@ -1,0 +1,13 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/tvdude
+lib/tvdude.rb
+lib/tvdude/ircbot.rb
+lib/tvdude/myepisodes.rb
+spec/ircbot_spec.rb
+spec/myepisodes_spec.rb
+spec/spec_helper.rb
+spec/tvdude_spec.rb
